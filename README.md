@@ -1,2 +1,2 @@
-A Shopping Application developed using Flutter and Dart as the frontend.
+A Shopping Application developed using Flutter and Dart as the frontend.\n
 And Firebase for the backend using http requests.
